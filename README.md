@@ -1,1 +1,2 @@
-# Kenonwa.sh
+# CARA PENGGUNAAN #
+
